@@ -1,0 +1,3 @@
+should see what to do with last scan
+
+i should see what to do with small files and placeholders and corrupted files

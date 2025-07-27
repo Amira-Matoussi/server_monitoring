@@ -1,0 +1,11 @@
+[
+  {
+    "server": "Amira Matoussi",
+    "cpu_forecast_max": 27.86,
+    "cpu_forecast_avg": 27.86,
+    "ram_forecast_max": 36.97,
+    "ram_forecast_avg": 36.96,
+    "cpu_alert": false,
+    "ram_alert": false
+  }
+]
